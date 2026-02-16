@@ -47,7 +47,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto flex items-center justify-between py-4 px-4">
         <a href="#" className="text-2xl font-bold text-primary font-serif tracking-tight">
-          VV<span className="text-foreground">.</span>
+          VV<span className="text-foreground"></span>
         </a>
 
         {/* Desktop */}
